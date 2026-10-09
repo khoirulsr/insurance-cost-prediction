@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset: tidak di-upload, download sendiri dari Kaggle (lihat README)
+data/*.csv
+
+# Model hasil training (dibuat ulang dengan `python train.py`)
+outputs/best_model.joblib
+
+# Secrets
+.env
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

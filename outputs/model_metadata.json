@@ -1,0 +1,19 @@
+{
+  "best_model": "Linear Regression + Feature Engineering",
+  "features": [
+    "age",
+    "bmi",
+    "children",
+    "smoker"
+  ],
+  "smoker_encoding": {
+    "no": 0,
+    "yes": 1
+  },
+  "test_metrics": {
+    "r2": 0.8987293270708031,
+    "rmse": 4014.373969569777,
+    "mae": 2284.2769390194367
+  },
+  "sklearn_version": "1.9.1"
+}
