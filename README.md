@@ -85,7 +85,7 @@ Diukur dengan *permutation importance* (seberapa turun R² saat sebuah fitur dia
 ## Cara Menjalankan
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/insurance-cost-prediction.git
+git clone https://github.com/khoirulsr/insurance-cost-prediction.git
 cd insurance-cost-prediction
 
 python -m venv venv
